@@ -1,0 +1,22 @@
+.map-style{
+    width: 350px;
+    height: 250px;
+}
+
+.form-color{
+    background-color: #FBEEE3;
+    border-radius: 10px;
+}
+
+.img-style:hover{
+    transform: scale(1.01);
+    color: crimson;
+}
+.contact-styling:hover .contact{
+ color: blueviolet;
+transform: scale(1.01);
+}
+.contact-styling:hover{
+border-left: 1px solid black;
+border-right: 1px solid black;
+}

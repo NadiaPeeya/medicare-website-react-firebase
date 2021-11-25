@@ -1,0 +1,34 @@
+.heading-color{
+    background-color: #1ABC9C;
+}
+.icon{
+    color: brown;
+}
+.watch-icon{
+    color: brown;
+  
+}
+.opening-hours{
+    font-size: large;
+    font-weight: 700;
+    font-style: italic;   
+}
+
+.change-color a{
+    color: white;
+    font-weight: bolder;
+    font-family: cursive;
+}
+.brand-color{
+    color: white;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 28px;
+}
+
+
+
+
+
+
+

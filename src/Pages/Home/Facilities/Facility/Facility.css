@@ -1,0 +1,14 @@
+.facility-optimize{
+    border-radius: 10px;
+    border: 2px solid #011C27;
+   background-color: rgb(102, 14, 14);
+    padding: 20px;
+    color: white;
+
+}
+.img-facilities{
+  padding: 20px;
+}
+.facility-optimize:hover{
+    transform: scale(1.03);
+}
